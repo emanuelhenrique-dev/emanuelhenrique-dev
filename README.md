@@ -31,6 +31,12 @@
 
 </p>
 
+### Participei
+
+<p>
+ <img width= "180px" alt="nlw-return" src="./assets/nlw_return.png"/>
+<p>
+
 ### Estou aprendendo
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
