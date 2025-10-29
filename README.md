@@ -3,6 +3,8 @@
 - Desenvolvedor Front-end Junior
 - Resido em Teresina, Piauí
 
+Sou um desenvolvedor iniciante apaixonado por tecnologia. Tenho conhecimento em HTML, CSS3 e JavaScript, e atualmente estou me especializando em React e TypeScript. Também possuo noções básicas de UI Design e Figma, o que me ajuda a pensar melhor na experiência do usuário. Apesar de ainda não ter experiência profissional, estou em busca da minha primeira oportunidade para colocar em prática tudo que venho aprendendo e continuar evoluindo como desenvolvedor.
+
 
 
 <img align="right" src="https://user-images.githubusercontent.com/105470775/168205566-db1137b0-ced4-4752-8c8b-99598ab4024f.gif" width="400px">
